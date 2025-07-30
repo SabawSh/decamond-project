@@ -1,0 +1,18 @@
+.inputWrapper {
+  margin-bottom: 1rem;
+
+  .input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    min-width: 100%;
+    color: #302f2f;
+  }
+
+  .error {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+    display: block;
+  }
+}
